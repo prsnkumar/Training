@@ -79,7 +79,7 @@ Code Rebase
 git log --oneline
 git log --until=4.hour.ago --oneline
 
-
+git log --oneline --graph
 
 
 
