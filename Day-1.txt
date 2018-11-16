@@ -81,6 +81,17 @@ git log --until=4.hour.ago --oneline
 
 git log --oneline --graph
 
+--Search using git commands using pattern
+git grep prasanna
+git log  --grep comment
+
+
+- Use binary search to find the commit that introduced a bug
+git-bisect 
+
+
+
+
 
 
 
