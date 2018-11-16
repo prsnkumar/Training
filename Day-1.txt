@@ -1,0 +1,87 @@
+Distributed Version Control System
+GIT vs GITHub
+Linux developer - GIT
+
+
+
+DVCS is more reliable than VCS as the entire repo will be cloned to every client 
+
+Features:
+	- integration with JIRA
+	- reliable, scalable etc..
+	- compatible with other VCS - subversion etc..
+
+
+
+GIT 
+	- works on the local repo. tool for local repository management.
+	- developed by Linus in C language.
+
+
+
+
+GITHub
+	- works on central repo. tool for remote repository management.
+	- deevloped by git hub org. Developed in Ruby.
+	- source code hosting tool.
+
+
+
+GitHub/Gerrit-code review
+
+
+
+Centralized Cons:
+- Branching is a big thing
+- Merging can be difficult (SVN)
+- Performance can be poor (SVN)
+
+
+----------------------------------
+
+creating repo
+	- git init
+
+Sync repo
+	- 
+
+
+
+
+--For all repository same user id is used if global is used.
+git config --global user.name"Prasanna"
+git config --global user.email"Prasanna.govindappa@sap.com"
+git config user.name
+
+
+
+49b77bad671a5521c005796eba71da2a8270bd5b
+40 digit SHA Key
+data is wrapped for pushing 
+
+
+
+
+
+
+Head is where you are committing.
+Head -> master
+master is also called origin
+
+
+
+
+Code Rebase
+	- Pull files from Central repository before pushing.
+
+
+
+git log --oneline
+git log --until=4.hour.ago --oneline
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+Login details:
+
+https://github.com
+prsnkumar
+$prasanna123
+
+
+
+git clone git@github.com:prsnkumar/Training.git
+
+
+
+Commands
+	- Push
+	- Pull
+	- Fetch
+	- Rebase
+
+Git integration with JIRA
+
+
+
+git config --local user.name "prsnkumar"
+git config --local user.email "prsnkumar@gmail.com"
+
+git config user.name
+git config user.email
+
