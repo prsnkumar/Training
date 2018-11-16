@@ -48,6 +48,8 @@ Sync repo
 
 
 
+
+
 --For all repository same user id is used if global is used.
 git config --global user.name"Prasanna"
 git config --global user.email"Prasanna.govindappa@sap.com"
